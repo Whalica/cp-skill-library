@@ -1,5 +1,13 @@
 # README：如何使用题目难度评分 Skill
 
+## 更新日志
+
+- v1：初版 skill，包含四个评价维度
+- v2：增加评分维度，cf 难度区间扩展为 800-~3500+
+- v3：增加面向人群配置项，添加 README
+
+
+
 本文件夹包含：
 
 - `problem_difficulty_scoring_skill_v3.md`：题目难度评分 Skill 主文件

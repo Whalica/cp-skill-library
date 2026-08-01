@@ -2,6 +2,11 @@
 
 本仓库收录竞赛编程相关的 Skills 和实用工具。
 
+## Todos
+
+* 赛后全面复盘 Skill
+* 对点推送优质题单 Skill
+
 ## Skills
 
 * **题目难度评价**：从算法知识、思维难度、代码复杂度等方面评价题目，并估算 Codeforces Rating 区间。
